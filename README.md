@@ -1,3 +1,4 @@
+# No openCV Visualize Only bounding boxes!
 # YOLO ROS: Real-Time Object Detection for ROS
 
 ## Notes about this fork
